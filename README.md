@@ -38,9 +38,21 @@ Disadvantages: of Agile Methodology
 -Scope Management:It can be more difficult to maintain a strict adherence to the original project scope.
 
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
--
+-Agile is beneficial when; requirements are likely to change, continuous feedbacks and ierations are needed, speed and flexibilities anre priorities and customer involvement is high. Examples include in software developmentwhere user feedback leads to frequent changes in features, gam development where improvements need to be made, E-commerce website developmentwhere features develop based on user behaviour.
+-Waterfall methodology on the other hand is beneficial where clear, fixed requirements exist upfront, strict regulatory  or compliance needs must be met, projects are large, well defined and need detailed documentaton and when minimal changes are expected. Exapmles of these include constructio pojects where almost everything must be predetermined, hardware development, governmen or defence projects which require strict coplaince and security protocols.
+
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
+-The methods include;
+     1. Static esting- This is done before execution through reviewing code and static code analysis.
+     2. Dynamic testig- It is done during execution. Black box testing which is testing without knowing the code and white box testing which tests with knowledge of the code are done.
+     3. Automated testing- Units tests, integration tests and performance tests are done.
+     4. Manual testing- Testers manually test for  bugs and users confirm if they mee ther needs.
+-High standard are important because they avoid costly fixes later, ensure quality and reliability and they improve user satisfaction and trust.
+
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
+- Defining project scope helps in successful planning because it sets clear boundaries preventing uncontrolled changes, aligns stakeholder expectations, improves resource allocation and provides a baseline for progress tacking.
+- A Work breakdown strucure is a hierachical breakdown of a project into smaller manageable tasks. It is useful since it improves project organization, enhances encountability by team members, Aids scheduling and budgeting and facilitates progress tracking.
+
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
